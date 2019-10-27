@@ -3,8 +3,8 @@
   flex-wrap: wrap;
   flex-direction: row;
   width: 100%;
-  border: solid 1px blue;
-  background-color: whitesmoke;
+  border: solid 1px pink;
+  background-color: orange;
   padding: 10px;
   color: black; }
 
@@ -27,7 +27,7 @@
   margin: 10px;
   width: 10%;
   height: 40px;
-  background-color: white; }
+  background-color: goldenrod; }
 
 .container-padre-app {
   display: flex;
